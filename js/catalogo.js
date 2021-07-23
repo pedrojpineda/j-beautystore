@@ -1,5 +1,5 @@
 // PRODUCTOS
-const urlJSON = "../js/productos.json"
+const urlJSON = "js/productos.json"
 
 function ajaxProductos() {
     $.ajax({
