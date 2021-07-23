@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre": "Crema Nutritiva Plus 50",
+        "categoria": "belleza-cuidado-piel",
+        "foto": "crema-nutritiva-plus-50-1.jpg",
+        "descripcion": "Fórmula especialmente indicada para pieles maduras. Enriquecida con extractos de Flor de Durazno y Vitamina E, componentes que ayudan a regenerar y renovar la piel.",
+        "precio": 45000,
+        "descuento": 17
+    },
+    {
+        "id": 2,
+        "nombre": "Agua de rosas",
+        "categoria": "belleza-cuidado-piel",
+        "foto": "agua-de-rosas.jpg",
+        "descripcion": "El Agua de rosas tiene múltiple beneficios como hidratar la piel cerrar poros abiertos y tonificar, ideal para utilizar en las mañanas y las noches, antes y después del maquillaje.",
+        "precio": 5900,
+        "descuento": 32
+    },
+    {
+        "id": 3,
+        "nombre": "Exfoliante facial",
+        "categoria": "belleza-cuidado-piel",
+        "foto": "exfoliante-facial.jpg",
+        "descripcion": "Diseñado especialmente para tener la piel suave, limpia de células muertas e impurezas gracias a las partículas exfoliantes que contiene. Efecto soft-peeling.",
+        "precio": 25900,
+        "descuento": 15
+    },
+    {
+        "id": 4,
+        "nombre": "Carnichofa",
+        "categoria":  "nutricion",
+        "foto": "carnichofa.jpg",
+        "descripcion": "Fórmula líquida con extracto de alcachofa, L-carnitina, picolinato de cromo y Vitaminas B1, B2 y B6. Estimula la diuresis, y por su aporte de cinarina estimula la producción de bilis facilitando el metabolismo de las grasas.",
+        "precio": 66000,
+        "descuento": 15
+    },
+    {
+        "id": 5,
+        "nombre": "Leiko Flax",
+        "categoria": "nutricion",
+        "foto": "leiko-flax.jpg",
+        "descripcion": "Fibra dietaria, proveniente de diferentes fuentes: Linaza dorada, alpiste para consumo humano, salvado de avena y de trigo; también frutas: Naranja, ciruela, manzana, papaya, pitahaya con insulina y probióticos.",
+        "precio": 47000,
+        "descuento": 30
+    },
+    {
+        "id": 6,
+        "nombre": "Organic Protein",
+        "categoria": "nutricion",
+        "foto": "organic-protein.jpg",
+        "descripcion": "Elaborada con ingredientes puros, cada porción de esta deliciosa proteína está certificada como orgánica por USDA y no es transgénica. Es una excelente manera de agregar nutrición adicional a su día activo y alimentar su vida.",
+        "precio": 126000,
+        "descuento": 16
+    },
+    {
+        "id": 7,
+        "nombre": "Complejo-B",
+        "categoria": "medicamentos",
+        "foto": "complejo-b.jpg",
+        "descripcion": "Complejo-B Multiples Componentes Cápsula Caja X 30 Sin Azucar.",
+        "precio": 23200,
+        "descuento": 16
+    },
+    {
+        "id": 8,
+        "nombre": "Alendronato",
+        "categoria": "medicamentos",
+        "foto": "alendronato.jpg",
+        "descripcion": "Alendronato 70Mg Tabletas Caja X 4 Mintlab.",
+        "precio": 32000,
+        "descuento": 16
+    },
+    {
+        "id": 9,
+        "nombre": "Betaglucano de Levadura",
+        "categoria": "medicamentos",
+        "foto": "betaglucano-de-levadura.jpg",
+        "descripcion": "Betaglucano de Levadura 250Mg Caja X 30 Cápsulas.",
+        "precio": 71700,
+        "descuento": 5
+    }
+]
